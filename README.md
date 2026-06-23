@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/7l4i8y1a4n3g8-7l4i8y1a4n3g8-1438-9748/moesora/master/templates/assets/dist/logo.svg&w=160&h=160&fit=cover&mask=circle" alt="moesora" width="160">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/lbviviolet-wallis-marchmail-4/moesora/master/templates/assets/dist/logo.svg&w=160&h=160&fit=cover&mask=circle" alt="moesora" width="160">
 </p>
 
 <h1 align="center">Moesora</h1>
